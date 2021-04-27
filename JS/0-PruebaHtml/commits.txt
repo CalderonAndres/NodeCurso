@@ -1,0 +1,23 @@
+commit 16a7fc76401b2d7c167a7ee84158f6c7673579fe
+Author: calderon <andres.calderon.2623@gmail.com>
+Date:   Fri Mar 12 16:16:20 2021 -0300
+
+    cambio de color
+
+commit 9e50526bfe809b77291a1a9afde9dc1853429410
+Author: calderon <andres.calderon.2623@gmail.com>
+Date:   Fri Mar 12 16:02:07 2021 -0300
+
+    copia div
+
+commit 15afa5ec72a9aa54b1b82a628e979c557eaab042
+Author: calderon <andres.calderon.2623@gmail.com>
+Date:   Fri Mar 12 15:58:45 2021 -0300
+
+    div rosa listo
+
+commit 1da113fde4706bfe3a9c46d212010a921d74f43a
+Author: calderon <andres.calderon.2623@gmail.com>
+Date:   Fri Mar 12 15:19:28 2021 -0300
+
+    fondo al html

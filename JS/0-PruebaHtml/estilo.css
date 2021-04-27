@@ -1,0 +1,20 @@
+#body{
+    background: url("./logx.png");
+    size: 100%;
+    background-repeat: no-repeat;
+    image-orientation:initial;
+}
+#div{
+    background:lightcoral;
+    text-align: center;
+    font-size: 100;
+}
+#div2{
+    background:rgb(148, 128, 240);
+    text-align: center;
+}
+#face{
+    background:rgb(255, 255, 255);
+    text-align: center;
+
+}
